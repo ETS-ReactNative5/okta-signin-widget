@@ -83,7 +83,6 @@
                 "rel": ["privacy-policy"]
             },
             "logo": {
-                "href": "https://example.com/logo",
                 "rel": ["icon"],
                 "alt": "Logo for the app"
             },
